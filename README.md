@@ -4,10 +4,8 @@
  <div>
   <a href="https://github.com/amiminn">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiminn&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiminn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-<div style="text-align: center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiminn&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="amiminn" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiminn&theme=dracula&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="amiminn" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiminn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/> -->
 </div>
  
  ## Skills
