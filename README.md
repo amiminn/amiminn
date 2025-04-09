@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/tholabul-amin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/yoamiminn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:tholabul.amin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://amiminn.my.id"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge&logo=semaphoreci&logoColor=white" target="_blank"></a>
+  <a href="https://amiminn.com"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge&logo=semaphoreci&logoColor=white" target="_blank"></a>
  </br>
 </br>
  
